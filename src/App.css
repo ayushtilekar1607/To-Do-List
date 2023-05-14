@@ -6,6 +6,7 @@ body{
   min-height: 500px;
   width: 400px;
   margin: 40px auto;
+  border-radius: 20px;
   
 }
 #to-do-form input {
